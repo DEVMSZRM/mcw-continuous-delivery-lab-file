@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/aiw-devops/ceef2554-44d3-43ec-b330-ae79e819a094/b603cae2-7d4c-4c35-b038-4ca52c2ee0b4/_apis/work/boardbadge/d35b1225-6259-477c-b1af-6055067d7bc1)](https://dev.azure.com/aiw-devops/ceef2554-44d3-43ec-b330-ae79e819a094/_boards/board/t/b603cae2-7d4c-4c35-b038-4ca52c2ee0b4/Microsoft.RequirementCategory)
 # mcw-continuous-delivery-lab-file
